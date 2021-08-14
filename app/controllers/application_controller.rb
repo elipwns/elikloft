@@ -10,5 +10,6 @@ class ApplicationController < ActionController::Base
     end
 
     def initialize()
+      super
     end
 end
